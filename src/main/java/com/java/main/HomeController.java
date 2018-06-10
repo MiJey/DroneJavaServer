@@ -48,7 +48,7 @@ public class HomeController {
 	private boolean flag = false;
 	
 	/**
-	 * 0 takeoff111111111111111111111111111111111111111111111111ddasd
+	 * 0 takeoff 
 	 * 1 forward
 	 * 2 back
 	 * 3 left
